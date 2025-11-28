@@ -13,9 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "ras.sh",
+  title: "template-nextjs",
   description:
-    "A collection of side projects, experiments, and tools built with modern technologies",
+    "▲ Full-stack template with Next.js 15. Includes App Router, SSR, and modern tooling.",
 };
 
 export default function RootLayout({

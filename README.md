@@ -1,4 +1,4 @@
-# @ras-sh/template-nextjs
+# template-nextjs
 
 ▲ Full-stack template with Next.js 16. Includes App Router, SSR, and modern tooling.
 

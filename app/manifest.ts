@@ -2,8 +2,8 @@ import type { MetadataRoute } from "next";
 
 export default function manifest(): MetadataRoute.Manifest {
   return {
-    name: "ras.sh",
-    short_name: "ras.sh",
+    name: "template-nextjs",
+    short_name: "template-nextjs",
     icons: [
       {
         src: "/favicon.ico",
