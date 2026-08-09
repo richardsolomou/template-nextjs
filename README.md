@@ -7,7 +7,7 @@
 - **[Next.js 16](https://nextjs.org)** - React framework with App Router
 - **Turbopack** - Next-generation bundler
 - **TypeScript** - End-to-end type safety
-- **Tailwind CSS v4** + **@ras-sh/ui** - Modern styling and components
+- **Tailwind CSS v4** + **shadcn/ui with Base UI** - Modern styling and local components
 
 ## Quick Start
 
