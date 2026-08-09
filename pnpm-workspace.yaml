@@ -1,0 +1,5 @@
+allowBuilds:
+  lefthook: true
+  sharp: true
+minimumReleaseAgeExclude:
+  - ras-stack@0.8.2

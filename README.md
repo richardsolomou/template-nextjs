@@ -24,14 +24,14 @@ pnpm dev
 
 ## Scripts
 
-| Command | Description |
-|---------|-------------|
-| `pnpm dev` | Start development server (port 3000) |
-| `pnpm build` | Build for production |
-| `pnpm preview` | Preview production build |
-| `pnpm check-types` | Run TypeScript type checking |
-| `pnpm check` | Run linter checks |
-| `pnpm fix` | Auto-fix linting issues |
+| Command            | Description                          |
+| ------------------ | ------------------------------------ |
+| `pnpm dev`         | Start development server (port 3000) |
+| `pnpm build`       | Build for production                 |
+| `pnpm preview`     | Preview production build             |
+| `pnpm check-types` | Run TypeScript type checking         |
+| `pnpm check`       | Run linter checks                    |
+| `pnpm fix`         | Auto-fix linting issues              |
 
 ## Project Structure
 
